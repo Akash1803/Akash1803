@@ -1,6 +1,6 @@
 # Akash Saravanan
 
-**Geospatial Engineer | GIS · Remote Sensing · Web GIS · GeoAI** — Chennai, India · open to relocation (Bengaluru)
+**Geospatial Engineer | GIS · Web GIS · GeoAI** — Chennai, India · open to relocation (Bengaluru)
 
 I turn survey, drone and satellite data into decision-ready maps and Web GIS platforms — from cadastral mapping and remote sensing to GeoAI, with AI-assisted development for the software side.
 
