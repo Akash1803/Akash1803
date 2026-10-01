@@ -7,6 +7,7 @@ I turn survey, drone and satellite data into decision-ready maps and Web GIS pla
 - 30+ CMDA layout projects on a Web GIS platform I built for CUMTA (React/Leaflet, FastAPI, DWG/DXF → GeoJSON pipeline)
 - 700+ cadastral parcels stitched and 5,000+ acres mapped · 25% QC workload cut with PyQGIS automation
 - Open source: **[AutoGeorefernce_FMB](https://github.com/Akash1803/AutoGeorefernce_FMB)** — automated georeferencing of Tamil Nadu FMB sheets (13 of 15 parcels within 5 m in leave-one-out validation)
+- Open source: **[PropertyTax_StreetAudit](https://github.com/Akash1803/PropertyTax_StreetAudit)** — checks property-tax building records against street-level imagery with line-of-sight view selection, marked targets, a vision-LLM reading and rule-based verdicts (Coimbatore Ward 44 pilot)
 
 **Portfolio:** https://akash1803.github.io/akash-saravanan-portfolio/ · **LinkedIn:** https://www.linkedin.com/in/akash-geospatial/ · **Email:** akashcivil04@gmail.com
 
