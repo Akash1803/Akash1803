@@ -6,9 +6,10 @@ I turn survey, drone and satellite data into decision-ready maps and Web GIS pla
 
 - 30+ CMDA layout projects on a Web GIS platform I built for CUMTA (React/Leaflet, FastAPI, DWG/DXF → GeoJSON pipeline)
 - Led property-tax QA/QC for 60 municipal wards (up to 5,000 buildings each) at 100% data integrity
-- 700+ cadastral parcels stitched and 5,000+ acres mapped · 25% QC workload cut with PyQGIS automation
-- Open source: **[AutoGeorefernce_FMB](https://github.com/Akash1803/AutoGeorefernce_FMB)** — automated georeferencing of Tamil Nadu FMB sheets (13 of 15 parcels within 5 m in leave-one-out validation)
+- 6,000+ cadastral parcels georeferenced or stitched (incl. ~5,370 parcels across 19 villages for a 32 km road corridor) and 5,000+ acres mapped · 25% QC workload cut with PyQGIS automation
+- Open source: **[AutoGeorefernce_FMB](https://github.com/Akash1803/AutoGeorefernce_FMB)** — automated georeferencing of Tamil Nadu FMB sheets (13 of 15 parcels within 5 m in leave-one-out validation; now being packaged as a QGIS plugin)
 - Open source: **[PropertyTax_StreetAudit](https://github.com/Akash1803/PropertyTax_StreetAudit)** — checks property-tax building records against street-level imagery with line-of-sight view selection, marked targets, a vision-LLM reading and rule-based verdicts (Coimbatore Ward 44 pilot)
+- Open source: **[SiteSuitability](https://github.com/Akash1803/SiteSuitability)** — boundary in, preliminary site analysis out: survey parcels, CLIP, A-register, guideline values, crop, land cost, connectivity maps and a 14-slide deck, with every portal answer cached in PostGIS
 
 **Portfolio:** https://akash1803.github.io/akash-saravanan-portfolio/ · **LinkedIn:** https://www.linkedin.com/in/akash-geospatial/ · **Email:** akashcivil04@gmail.com
 
